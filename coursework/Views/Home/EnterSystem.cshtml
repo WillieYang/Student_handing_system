@@ -1,0 +1,28 @@
+﻿@model int
+@{
+    ViewBag.Title = "Enter System Page";
+}
+
+<div class="row">
+    <div class="col-xs-12 col-sm-6">
+        <h2>Student</h2>
+        <p class="text-danger">
+            Only STUDENT identity is allowed to access >>
+        </p>
+        <p>
+            @Html.ActionLink("ENTER", "StudentMain", "Student", new { sid = Model }, new { @class = "btn btn-warning btn-lg" })
+        </p>
+    </div>
+
+    <div class="col-xs-12 col-sm-6">
+        <h2>Teacher</h2>
+        <p class="text-danger">
+            Only TEACHER identity is allowed to access >>
+        </p>
+        <p>
+            @Html.ActionLink("ENTER", "TeacherMain", "Teacher", new { }, new { @class = "btn btn-warning btn-lg" })
+        </p>
+    </div>
+
+</div>
+

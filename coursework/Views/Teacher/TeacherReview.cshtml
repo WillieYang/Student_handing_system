@@ -1,0 +1,6 @@
+﻿@model coursework.Models.StudentModel
+@{
+    ViewBag.Title = "Teacher Review Page - Student @Model.FirstName @Model.LastName";
+}
+
+<iframe src="data:@Model.CourdeworkMimeType;base64, @Convert.ToBase64String(Model.CourseworkData)" width="100%" height="1500"></iframe>

@@ -1,0 +1,34 @@
+﻿@model int
+@{
+    ViewBag.Title = "Teacher Mark Page";
+}
+
+@Html.ValidationSummary()
+@using (@Html.BeginForm("TeacherMark", "Teacher", new { sid = @Model }, FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="row">
+        <div class="col-xs-12 col-sm-5">
+            <label for="comment" style="font-size:130%">Comment:</label>
+            @Html.TextArea("comments", null, new { @class = "form-control", cols = "1130", rows = "30"})
+        </div>
+        <br>
+        <br>
+        <br>
+
+        <div class="col-xs-12 col-sm-5">
+            <label for="Grade" style="font-size:130%">Grade:</label>
+            <select id="Grade" name="grade">
+                @for (var i = 0; i <= 100; i++)
+                {
+                    <option value="@i">@i</option>
+                }
+            </select>
+        </div>
+
+        <div class="col-xs-12">
+            <input type="submit" value="SUBMIT" class="btn btn-primary btn-block pull-right">
+        </div>
+
+    </div>
+
+}

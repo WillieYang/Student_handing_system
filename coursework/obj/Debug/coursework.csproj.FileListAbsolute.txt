@@ -1,0 +1,168 @@
+h:\visual studio 2015\Projects\coursework\coursework\bin\ApplicationInsights.config
+h:\visual studio 2015\Projects\coursework\coursework\bin\roslyn\csc.exe
+h:\visual studio 2015\Projects\coursework\coursework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\roslyn\Microsoft.CodeAnalysis.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\roslyn\Microsoft.CSharp.Core.targets
+h:\visual studio 2015\Projects\coursework\coursework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+h:\visual studio 2015\Projects\coursework\coursework\bin\roslyn\System.Collections.Immutable.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\roslyn\System.Reflection.Metadata.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\roslyn\vbc.exe
+h:\visual studio 2015\Projects\coursework\coursework\bin\roslyn\VBCSCompiler.exe
+h:\visual studio 2015\Projects\coursework\coursework\bin\roslyn\VBCSCompiler.exe.config
+h:\visual studio 2015\Projects\coursework\coursework\bin\coursework.dll.config
+h:\visual studio 2015\Projects\coursework\coursework\bin\coursework.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\coursework.pdb
+h:\visual studio 2015\Projects\coursework\coursework\bin\Antlr3.Runtime.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\EntityFramework.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\EntityFramework.SqlServer.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.AI.Agent.Intercept.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.AI.DependencyCollector.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.AI.PerfCounterCollector.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.AI.ServerTelemetryChannel.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.AI.Web.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.AI.WindowsServer.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.ApplicationInsights.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.AspNet.Identity.Core.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.AspNet.Identity.Owin.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.Owin.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.Owin.Host.SystemWeb.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.Owin.Security.Cookies.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.Owin.Security.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.Owin.Security.Facebook.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.Owin.Security.Google.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.Owin.Security.OAuth.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.Owin.Security.Twitter.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.Web.Infrastructure.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Newtonsoft.Json.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Owin.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\System.Web.Helpers.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\System.Web.Mvc.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\System.Web.Optimization.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\System.Web.Razor.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\System.Web.WebPages.Deployment.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\System.Web.WebPages.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\System.Web.WebPages.Razor.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\WebGrease.dll
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.AI.DependencyCollector.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.AI.Web.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.AI.WindowsServer.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.ApplicationInsights.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\System.Web.Helpers.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\System.Web.Mvc.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\System.Web.Optimization.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\System.Web.Razor.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\System.Web.WebPages.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\System.Web.WebPages.Deployment.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\System.Web.WebPages.Razor.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\Antlr3.Runtime.pdb
+h:\visual studio 2015\Projects\coursework\coursework\bin\Newtonsoft.Json.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\EntityFramework.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\EntityFramework.SqlServer.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.AspNet.Identity.Core.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.AspNet.Identity.Owin.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.Owin.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.Owin.Host.SystemWeb.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.Owin.Security.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.Owin.Security.Facebook.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.Owin.Security.Cookies.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.Owin.Security.OAuth.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.Owin.Security.Google.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.Owin.Security.Twitter.xml
+h:\visual studio 2015\Projects\coursework\coursework\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+h:\visual studio 2015\Projects\coursework\coursework\obj\Debug\coursework.csprojResolveAssemblyReference.cache
+h:\visual studio 2015\Projects\coursework\coursework\obj\Debug\coursework.dll
+h:\visual studio 2015\Projects\coursework\coursework\obj\Debug\coursework.pdb
+H:\Visual Studio 2015\Projects\coursework\coursework\obj\Debug\coursework.Migrations.InitialCreate.resources
+H:\Visual Studio 2015\Projects\coursework\coursework\obj\Debug\coursework.csproj.GenerateResource.Cache
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\ApplicationInsights.config
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\roslyn\csc.exe
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\roslyn\System.Collections.Immutable.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\roslyn\System.Reflection.Metadata.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\roslyn\vbc.exe
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\roslyn\VBCSCompiler.exe
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\roslyn\VBCSCompiler.exe.config
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\coursework.dll.config
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\coursework.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\coursework.pdb
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Antlr3.Runtime.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\EntityFramework.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\EntityFramework.SqlServer.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.AI.DependencyCollector.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.AI.Web.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.AI.WindowsServer.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.ApplicationInsights.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.Owin.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.Owin.Security.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.Owin.Security.Google.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.Web.Infrastructure.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Newtonsoft.Json.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Owin.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\System.Web.Helpers.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\System.Web.Mvc.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\System.Web.Optimization.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\System.Web.Razor.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\System.Web.WebPages.Deployment.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\System.Web.WebPages.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\System.Web.WebPages.Razor.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\WebGrease.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.AI.DependencyCollector.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.AI.Web.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.AI.WindowsServer.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.ApplicationInsights.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\System.Web.Helpers.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\System.Web.Mvc.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\System.Web.Optimization.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\System.Web.Razor.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\System.Web.WebPages.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\System.Web.WebPages.Deployment.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\System.Web.WebPages.Razor.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Antlr3.Runtime.pdb
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Newtonsoft.Json.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\EntityFramework.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\EntityFramework.SqlServer.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.Owin.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.Owin.Security.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.Owin.Security.Google.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\obj\Debug\coursework.csprojResolveAssemblyReference.cache
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\obj\Debug\coursework.Migrations.InitialCreate.resources
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\obj\Debug\coursework.csproj.GenerateResource.Cache
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\obj\Debug\coursework.dll
+F:\Workplace\VirtualStudio\Projects\coursework\coursework\obj\Debug\coursework.pdb

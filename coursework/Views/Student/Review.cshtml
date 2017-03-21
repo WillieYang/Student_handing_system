@@ -1,0 +1,18 @@
+﻿@model coursework.Models.Assessment
+@{
+    ViewBag.Title = "Student Review Page";
+}
+
+<div class="row">
+    <h3 class="internal-header"><i>Below is the assessment of your coursework.</i></h3>
+    <br>
+    <br>
+
+    <p class="student-grade">Grade: @Model.Grade</p>
+    <br>
+    <br>
+    <br>
+
+    <p class="student-comments">Comments:<br><br>@Model.Comments</p>
+</div>
+

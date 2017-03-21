@@ -1,0 +1,32 @@
+﻿@model coursework.Models.StudentModel
+@{
+    ViewBag.Title = "Student Main Page";
+}
+
+<div class="row">
+    <h2 class="internal-header">Welcome! @Model.FirstName @Model.LastName!</h2>
+    <div class="col-xs-11 col-sm-5 student_submit">
+        <h1>Submit Coursework</h1>
+        <p class="student_main_font">
+            Submit Coursework webpage provides students online coursework submission platform. Enter by clicking the button below.
+        </p>
+        <br>
+        <br>
+        <p class="return">
+            @Html.ActionLink(HttpUtility.HtmlDecode("SUBMIT &raquo;"), "Submit", "Student", new {sid=@Model.StudentID}, new { @class="btn btn-primary btn-lg"})
+        </p>
+    </div>
+
+    <div class="col-xs-11 col-sm-5 student_review">
+        <h1>Review Mark</h1>
+        <p class="student_main_font">
+            Review Mark webpage offers students online review of their coursework, including the final grade, comments from lecturer and so on.
+        </p>
+        <br>
+        <br>
+        <p class="return">
+            @Html.ActionLink(HttpUtility.HtmlDecode("REVIEW &raquo;"), "Review", "Student", new {sid=@Model.StudentID}, new { @class="btn btn-primary btn-lg"})
+        </p>
+    </div>
+
+</div>

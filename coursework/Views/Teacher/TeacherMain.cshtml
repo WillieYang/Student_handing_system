@@ -1,0 +1,33 @@
+﻿@model coursework.Models.StudentModel[]
+@{
+    ViewBag.Title = "Teacher Main Page";
+}
+
+<div class="row">
+    <h2 class="internal-header">Welcome! Teacher! Please check students' coursework and give your assessment.</h2>
+    <br>
+    <br>
+
+    <div class="col-xs-12 col-xs-offset-1">
+        <table style="border-collapse: separate; border-spacing: 1em 1em">
+            <tr>
+                <th style="font-size:130%">Student ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+                <th style="font-size:130%">Student Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+                <th style="font-size:130%">Coursework&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+                <th style="font-size:130%">Mark</th>
+            </tr>
+            
+            @foreach (var s in @Model)
+            {
+                <tr>
+                    <td align="center">@s.StudentID</td>
+                    <td align="center">@s.FirstName @s.LastName</td>
+                    <td align="center">@Html.ActionLink("OPEN", "TeacherReview", "Teacher", new { sid=@s.StudentID }, new { @class= "btn btn-primary btn-md", target = "_blank" })</td>
+                    <td align="center">@Html.ActionLink("MARK", "TeacherMark", "Teacher", new { sid=@s.StudentID }, new { @class = "btn btn-primary btn-md" })</td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>
+

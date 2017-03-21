@@ -1,0 +1,17 @@
+﻿@model coursework.Models.StudentModel
+@{
+    ViewBag.Title = "Student Submit Page";
+}
+
+<div class="row">
+    <h3>Dear @Model.FirstName @Model.LastName</h3>
+    <h3 class="internal-header"><i>Please select an HTML file from your local computer and click UPLOAD button.</i></h3>
+    <br>
+    <br>
+    @using (Html.BeginForm("Submit", "Student", new { sid = @Model.StudentID }, FormMethod.Post, new { enctype="multipart/form-data" }))
+    {
+        <input type="file" name="SelectedHTMLFile" required>
+        <label>Format other than .html is not allowed!</label>
+        <input type="submit" value="UPLOAD" class="btn btn-primary btn-block pull-right">
+    }
+</div>

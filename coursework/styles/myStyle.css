@@ -1,0 +1,65 @@
+﻿.navbar-custom {
+    color: #696969;
+    background-color: #FFDAB9;
+}
+
+.nav-custom>li>a:hover,
+.nav-custom>li>a:focus {
+    text-decoration: none;
+    background-color: #16cc6d;
+}
+
+.internal-header {
+    color:#808000;
+}
+
+p.return {
+    align-content:center;
+    font-size:24pt
+}
+
+.student_submit {
+    border:5px solid orange;
+    padding:50px;
+    margin:2px
+}
+
+.student_review {
+    border:5px solid purple;
+    padding:50px;
+    margin:2px
+}
+
+.student_main_font {
+    font-size: 150%;
+}
+
+.student-grade {
+    color: #4B0082;
+    font-size:32pt;
+    font-weight:500
+}
+
+.student-comments {
+    color: #696969;
+    font-size: 18pt
+}
+
+.bg-setting {
+    background-color: #FFF8DC;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 1em 1em;
+}
+
+td {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.Centered {
+    display: inline-block;
+    vertical-align: middle;
+}
